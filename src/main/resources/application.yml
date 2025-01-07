@@ -8,7 +8,7 @@ spring:
     name: transport
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: none
 springdoc:
   api-docs:
     path: /api-docs
